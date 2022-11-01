@@ -18,6 +18,8 @@ tags:
 
 ## Emphasis
 
+![Dog looking](http://images6.fanpop.com/image/photos/39300000/Dog-dogs-39323649-1440-900.jpg "Dogs at work")
+
 *This text will be italic*\
 *This will also be italic*
 
